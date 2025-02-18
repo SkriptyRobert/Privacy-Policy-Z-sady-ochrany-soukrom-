@@ -1,1 +1,1 @@
-# Privacy-Policy-Z-sady-ochrany-soukrom-
+# Privacy-Policy/Zásady ochrany a soukromí
