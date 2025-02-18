@@ -15,8 +15,8 @@ Aplikace nevyžaduje žádná citlivá oprávnění, jako jsou:
 - Přístup k souborům  
 
 ## 3. Reklamy a analytika
-Aplikace může zobrazovat reklamy prostřednictvím Google AdMob, které mohou používat anonymní údaje pro personalizaci reklam.  
+V naší aplikaci nejsou implementovány žádné reklamy ani systémy pro sledování či analytiku.  
 
 ## 4. Kontakt
 Pokud máte jakékoli dotazy, kontaktujte nás na:  
-📧 **[tvůj email]**  
+📧 **[robert.softwares@gmail.com]**  
