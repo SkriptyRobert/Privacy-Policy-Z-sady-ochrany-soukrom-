@@ -1,6 +1,4 @@
-# Privacy-Policy/Zásady ochrany a soukromí
-
-#Czech
+# Zásady ochrany a soukromí
 
 # Zásady ochrany soukromí
 
@@ -20,3 +18,22 @@ V naší aplikaci nejsou implementovány žádné reklamy ani systémy pro sledo
 ## 4. Kontakt
 Pokud máte jakékoli dotazy, kontaktujte nás na:  
 📧 **[robert.softwares@gmail.com]**  
+
+## Privacy Policy
+
+## 1. Collection and Use of Personal Data
+Our application does not collect, store, or share any personal data from its users.
+
+## 2. Required Permissions
+The application does not require any sensitive permissions, such as:
+- Access to the microphone
+- Access to the camera
+- Access to files (read/write external storage)
+- Access to location
+
+## 3. Advertising and Analytics
+Our application does not include any advertising or tracking systems for analytics.
+
+## 4. Contact
+If you have any questions regarding privacy, please contact us at:
+📧 **[robert.softwares@gmail.com]**
