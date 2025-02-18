@@ -1,5 +1,3 @@
-# Zásady ochrany a soukromí
-
 # Zásady ochrany soukromí
 
 ## 1. Sběr a používání osobních údajů
